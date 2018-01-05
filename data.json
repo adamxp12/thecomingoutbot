@@ -1,0 +1,45 @@
+{
+    "sendDiscord": {
+        "type": "discord",
+        "uid": "80351110224678912",
+        "msg": "This is a test multiline msg.\nWhat an amazing test",
+        "timestamp": "1514494609",
+        "sent": true
+    },
+
+    "sendTweet": {
+        "type": "tweet",
+        "msg": "This is a test multiline msg.\nWhat an amazing test",
+        "timestamp": "1514494609",
+        "sent": true
+    },
+
+    "reddit": {
+        "type": "redditText",
+        "subreddit": "comingout",
+        "title": "What a test",
+        "msg": "This is a test multiline msg.\n\nWhat an amazing test",
+        "flairid": "",
+        "timestamp": "1514494609",
+        "sent": true
+    },
+
+    "slack1": {
+        "type": "slack",
+        "bottoken": "xoxb-xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx",
+        "channel": "C061EG9SL",
+        "msg": "This is a test multiline msg.\nWhat an amazing test",
+        "timestamp": "1514494609",
+        "sent": true
+    },
+
+    "sendIg": {
+        "type": "instagram",
+        "user": "username",
+        "password": "password",
+        "imgfile": "insta.jpg",
+        "msg": "What an amazing caption",
+        "timestamp": "1514494609",
+        "sent": true
+    }
+}

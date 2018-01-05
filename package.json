@@ -1,0 +1,32 @@
+{
+  "name": "thecomingoutbot",
+  "version": "1.0.0",
+  "description": "The bot which automaticly sends stuff based on a JSON input",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "automation",
+    "bot"
+  ],
+  "author": "Adam Blunt (adamblunt.me)",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "discord.js": "^11.2.1",
+    "instagram-private-api": "^0.6.7",
+    "slack": "^9.1.1",
+    "snoowrap": "^1.15.1",
+    "twitter": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamxp12/thecomingoutbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adamxp12/thecomingoutbot/issues"
+  },
+  "homepage": "https://github.com/adamxp12/thecomingoutbot#readme"
+}
